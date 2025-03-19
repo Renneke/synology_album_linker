@@ -8,6 +8,7 @@ dependencies = [
     "synology-api",
     "tqdm"
 ]
+license = "Apache-2.0"
 
 [project.scripts]
 synology-album-linker = "synology_album_linker.main:main"
