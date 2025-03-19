@@ -1,5 +1,8 @@
 # Synology Album Linker
 
+![workflow](https://github.com/SeimSoft/synology_album_linker/actions/workflows/python-package.yml/badge.svg)
+
+
 A Python tool to create symbolic links for Synology Photos albums, making them easily accessible through your file system.
 
 ## Why do you need it?
@@ -116,4 +119,4 @@ You can create this configuration iteratively.
 
 If you find this tool helpful for managing your Synology Photos albums, consider buying me a coffee! Your support helps me maintain and improve this project.
 
-<center><a href="https://www.buymeacoffee.com/SeimSoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SeimSoft&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></center>
+<a href="https://www.buymeacoffee.com/SeimSoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SeimSoft&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
