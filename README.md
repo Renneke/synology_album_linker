@@ -27,6 +27,10 @@ This allows a smooth transition to some other system.
 ## Usage
 
 ```bash
+
+# Install it via git
+pip install git+https://github.com/SeimSoft/synology_album_linker.git
+
 # First create a config and edit it manually
 synology-album-linker --dump-config config.py
 # Create a cache of all available folders of all users
