@@ -96,7 +96,7 @@ def create_album_links(photos: CustomPhotos, config):
         owner_id = album["owner_user_id"]
         
         album_timestamp:int = album["create_time"]
-        album_path = pathlib.Path("albums") / get_album_year(album_timestamp, album["name"]) / album["name"]
+        album_path = pathlib.Path("albums") / get_album_year(album_timestamp, album["name"]) / album["name"].replace("/", "_")
         album_path.mkdir(parents=True, exist_ok=True)
         
         images = photos.list_item_in_albums(album_id=album["id"])["data"]["list"]
