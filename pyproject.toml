@@ -1,0 +1,13 @@
+[project]
+name = "synology-album-linker"
+version = "0.1.0"
+description = "Link your Synology Photos albums to your local filesystem"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "synology-api",
+    "tqdm"
+]
+
+[project.scripts]
+synology-album-linker = "synology_album_linker.main:main"
