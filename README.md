@@ -106,3 +106,10 @@ CACHE_FILE = "folders.json"
 ```
 
 You can create this configuration iteratively.
+
+
+## Support My Work
+
+If you find this tool helpful for managing your Synology Photos albums, consider buying me a coffee! Your support helps me maintain and improve this project.
+
+<a href="https://www.buymeacoffee.com/SeimSoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SeimSoft&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
